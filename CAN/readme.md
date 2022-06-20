@@ -1,5 +1,6 @@
-Backup of some https://github.com/moonglow/ binaries
+See also https://github.com/rusefi/rusefi/wiki/CAN#hardware-options
 
+Backup of some https://github.com/moonglow/ binaries
 
 Korlan uses https://github.com/rusefi/rusefi_external_utils/blob/master/CAN/pcan_canable_hw.hex
 
