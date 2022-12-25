@@ -1,3 +1,5 @@
+Driver note: 4.2.3 is desired, we suspect 4.3 of undesired behavour.
+
 See also https://github.com/rusefi/rusefi/wiki/CAN#hardware-options
 
 Backup of some https://github.com/moonglow/ binaries
