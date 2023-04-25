@@ -1,4 +1,4 @@
-Driver note: 4.2.3 is desired, we suspect 4.3 of undesired behavour.
+Driver note: [4.2.3 is desired](https://github.com/slimelec/ollie-hw/issues/8#issuecomment-1016068990), we suspect 4.3 of undesired behavour.
 
 See also https://github.com/rusefi/rusefi/wiki/CAN#hardware-options
 
